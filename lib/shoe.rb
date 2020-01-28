@@ -3,6 +3,9 @@ class Shoe
   
   # def initialize()
   #   @ = 
-  # end  
+  # # end  
+  # def 
+  #   @
+  # end   
   
 end 
